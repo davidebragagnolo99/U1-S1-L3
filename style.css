@@ -48,11 +48,11 @@ a {
     padding-left: 12px;
     border-left: 0.5px solid rgb(255, 240, 119);
 }
-.ingredients {
+.Ingredients {
     width: 500px;
     margin: 0 auto;
 }
-.ingredients h4 {
+.Ingredients h4 {
     border-bottom: 1px solid lightcyan;
     padding-bottom: 10px;
 }
@@ -86,7 +86,6 @@ footer {
 span {
     border-left: 0.5px solid rgb(255, 240, 119);
     padding-left: 12px;
-    color: orange;
 }
 
 
